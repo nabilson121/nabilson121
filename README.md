@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nabilson121
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python with framework  django
-- 💞️ I’m looking to collaborate on a project with beginners at thos field and I'm not an expert yet, yet to come and  uet too far.
+- 💞️ I’m looking to collaborate on a project with beginners at the same field and I'm not an expert yet, yet to come and  uet too far.
 - 📫 How to reach me ; here is my email address: nabilechchad17@gmail.com
 
 <!---
